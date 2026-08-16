@@ -17,7 +17,7 @@
   * [Se Connecter](guide/se-connecter.md)
   * [Boutique](guide/boutique.md)
   * [Touche In-Game](guide/touche-in-game.md)
-   * [Soucis / Bugs](guide/soucis-bugs.md)
+  * [Soucis / Bugs](guide/soucis-bugs.md)
     * [Vider son cache Fivem](guide/soucis-bugs/vider-cache-fivem.md)
     * [Map qui ne charge pas](guide/soucis-bugs/map-ne-charge-pas.md)
     * [Bug Menu en jeu](guide/soucis-bugs/bug-menu-en-jeu.md)
